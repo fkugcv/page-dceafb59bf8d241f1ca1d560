@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "71a1acc7d0922991424a7216",
+  "owner": "fkugcv",
+  "repo": "page-dceafb59bf8d241f1ca1d560",
+  "title": "若比邻",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "dceafb59bf8d241f1ca1d560",
+      "a": "若比邻",
+      "b": "",
+      "entity": "若比邻",
+      "brand": "若比邻",
+      "separator": "",
+      "path": "index.html",
+      "hash": "187b54f4482c4c32c2cdf6310e75eda041b849877a8a2d6312ab6605ba7a0677",
+      "content": {
+        "keyword1": "若比邻",
+        "keyword2": "",
+        "primary_entity": "若比邻",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "若比邻提供基础版、旗舰版、团队版等多款VPN套餐，保障您的上网安全与稳定。",
+          "AI_DESCRIPTION": "若比邻提供基础版、旗舰版、团队版等多款VPN套餐，保障您的上网安全与稳定。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n        :root {--brown: #5D4037;--mint: #4DB6AC}\n        * {margin: 0;padding: 0;box-sizing: border-box}\n        body {font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;background: #f8f1e3;color: #333;line-height: 1.7}\n        nav {background: var(--brown);color: white;padding: 12px 20px;position: sticky;top: 0;z-index: 100}\n        .nav-container {max-width: 1200px;margin: 0 auto;display: flex;justify-content: space-between;align-items: center;font-size: 0.95rem}\n        .breadcrumb {display: flex;gap: 8px;font-size: 0.9rem}\n        .breadcrumb a {color: white;text-decoration: none}\n        .breadcrumb a:hover {text-decoration: underline}\n        .directory {display: flex;gap: 24px}\n        .directory a {color: white;text-decoration: none}\n        .directory a:hover {text-decoration: underline}\n        .hero {display: flex;min-height: 520px;background: linear-gradient(135deg, var(--brown), #8D6E63);color: white}\n        .hero-content {max-width: 1200px;margin: 0 auto;width: 100%;padding: 0 20px;display: flex;gap: 40px;align-items: center}\n        .left {flex: 0 0 32%;padding: 60px 0}\n        .right {flex: 1;background: white;border-radius: 16px;padding: 50px 40px;height: 380px;display: flex;flex-direction: column;justify-content: center;align-items: center;color: var(--brown);box-shadow: 0 10px 30px rgba(93, 64, 55, 0.15)}\n        .hero h1 {font-size: 3.2rem;margin-bottom: 16px;line-height: 1.1}\n        .hero p {font-size: 1.25rem;margin-bottom: 32px;opacity: 0.95}\n        .cta-btn {background: var(--mint);color: var(--brown);padding: 16px 36px;border-radius: 9999px;font-size: 1.25rem;font-weight: 600;text-decoration: none;display: inline-block;transition: all 0.3s}\n        .cta-btn:hover {transform: translateY(-4px);box-shadow: 0 10px 20px rgba(77, 182, 172, 0.3)}\n        main {max-width: 1200px;margin: 0 auto;padding: 60px 20px}\n        h2 {font-size: 2rem;margin-bottom: 32px;color: var(--brown);border-bottom: 3px solid var(--mint);padding-bottom: 12px}\n        .plans-grid {display: flex;flex-direction: column;gap: 28px}\n        .plan-card {background: white;border-radius: 12px;overflow: hidden;position: relative;box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);transition: transform 0.3s}\n        .plan-card:hover {transform: translateY(-8px)}\n        .plan-number {position: absolute;bottom: 24px;right: 24px;font-size: 5.5rem;font-weight: 800;color: var(--mint);opacity: 0.12;z-index: 1}\n        .plan-header {padding: 28px 28px 0 28px;display: flex;justify-content: space-between;align-items: flex-start}\n        .featured {background: #fff8e1;border: 2px solid #f4c542}\n        .plan-price {font-size: 2.1rem;font-weight: 700;color: var(--brown);margin-bottom: 4px}\n        .annual {color: #666;font-size: 0.95rem}\n        .plan-features {padding: 0 28px 28px}\n        .plan-features ul {list-style: none}\n        .plan-features li {padding: 8px 0;display: flex;align-items: flex-start;gap: 12px}\n        .plan-features li:before {content: \"✓\";color: var(--mint);font-weight: bold}\n        .recommended {position: absolute;top: 24px;right: 24px;background: var(--mint);color: white;padding: 6px 16px;border-radius: 9999px;font-size: 0.85rem;font-weight: 600}\n        .clients-section {background: white;border-radius: 16px;padding: 48px 40px;margin: 60px 0;box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08)}\n        .clients-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));gap: 20px}\n        .client-item {text-align: center;padding: 20px;border: 1px solid #eee;border-radius: 8px}\n        .faq-section {background: #fff;border-radius: 16px;padding: 48px 40px;box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08)}\n        details {margin-bottom: 20px;border-bottom: 1px solid #eee;padding-bottom: 16px}\n        summary {font-size: 1.15rem;font-weight: 600;cursor: pointer;color: var(--brown);list-style: none}\n        summary::-webkit-details-marker {display: none}\n        .footer-note {text-align: center;margin-top: 80px;padding: 30px;font-size: 0.95rem;color: #666;border-top: 1px solid #ddd}\n        @media (max-width: 768px) {\n            .hero-content {flex-direction: column;text-align: center}\n            .left {flex: 1 1 100%;padding: 40px 20px}\n            .right {height: auto;padding: 40px 20px}\n            h1 {font-size: 2.6rem}\n        }\n    </style><nav>\n        <div class=\"nav-container\">\n            <div class=\"breadcrumb\">\n                <a href=\"#\">首页</a> &gt; \n                <a href=\"#\">产品</a> &gt; \n                <a href=\"#\">套餐选择</a>\n            </div>\n            <div class=\"directory\">\n                <a href=\"#plans\">套餐</a>\n                <a href=\"#clients\">用户</a>\n                <a href=\"#faq\">FAQ</a>\n            </div>\n        </div>\n    </nav>\n\n    <div class=\"hero\">\n        <div class=\"hero-content\">\n            <div class=\"left\">\n                <h1>若比邻</h1>\n                <p>安全稳定的网络连接<br>多种套餐任您选择</p>\n                <p>无论您是个人还是团队，都能找到最适合的方案</p>\n            </div>\n            <div class=\"right\">\n                <a href=\"#plans\" class=\"cta-btn\">立即查看套餐</a>\n            </div>\n        </div>\n    </div>\n\n    <main>\n        <section id=\"plans\">\n            <h2>选择适合您的套餐</h2>\n            <div class=\"plans-grid\">\n                \n                <div class=\"plan-card\">\n                    <div class=\"plan-number\">01</div>\n                    <div class=\"plan-header\">\n                        <div>\n                            <h3>基础版</h3>\n                            <div class=\"plan-price\">¥15/月</div>\n                            <div class=\"annual\">按年付仅需 ¥150/年</div>\n                        </div>\n                    </div>\n                    <div class=\"plan-features\">\n                        <ul>\n                            <li>每月可使用高达100GB的高速流量</li>\n                            <li>同时支持3台设备连接</li>\n                            <li>解锁主流视频平台的基础内容</li>\n                            <li>提供基础线路节点池</li>\n                        </ul>\n                    </div>\n                </div>\n\n                \n                <div class=\"plan-card featured\">\n                    <div class=\"recommended\">推荐</div>\n                    <div class=\"plan-number\">02</div>\n                    <div class=\"plan-header\">\n                        <div>\n                            <h3>旗舰版</h3>\n                            <div class=\"plan-price\">¥35/月</div>\n                            <div class=\"annual\">按年付仅需 ¥350/年</div>\n                        </div>\n                    </div>\n                    <div class=\"plan-features\">\n                        <ul>\n                            <li>每月可使用高达300GB的高速流量</li>\n                            <li>同时支持5台设备连接</li>\n                            <li>完美解锁所有主流流媒体平台</li>\n                            <li>IPLC专线提升游戏加速体验</li>\n                            <li>7×24小时优先工单支持</li>\n                        </ul>\n                    </div>\n                </div>\n\n                \n                <div class=\"plan-card\">\n                    <div class=\"plan-number\">03</div>\n                    <div class=\"plan-header\">\n                        <div>\n                            <h3>团队版</h3>\n                            <div class=\"plan-price\">¥85/月</div>\n                            <div class=\"annual\">按年付仅需 ¥850/年</div>\n                        </div>\n                    </div>\n                    <div class=\"plan-features\">\n                        <ul>\n                            <li>每月可使用高达1000GB的高速流量</li>\n                            <li>同时支持20台设备连接</li>\n                            <li>专属VIP高带宽节点</li>\n                            <li>支持企业定制路由设置</li>\n                            <li>配备专属客户经理服务</li>\n                        </ul>\n                    </div>\n                </div>\n            </div>\n        </section>\n\n        <section id=\"clients\" class=\"clients-section\">\n            <h2>服务用户</h2>\n            <div class=\"clients-grid\">\n                <div class=\"client-item\">\n                    <strong>科技企业</strong>\n                    <p>使用若比邻保障研发环境安全</p>\n                </div>\n                <div class=\"client-item\">\n                    <strong>内容创作者</strong>\n                    <p>稳定节点解锁各类平台</p>\n                </div>\n                <div class=\"client-item\">\n                    <strong>海外留学生</strong>\n                    <p>日常使用更顺畅</p>\n                </div>\n                <div class=\"client-item\">\n                    <strong>小型团队</strong>\n                    <p>高效协作网络连接</p>\n                </div>\n            </div>\n        </section>\n\n        <section id=\"faq\" class=\"faq-section\">\n            <h2>常见问题解答</h2>\n            <details>\n                <summary>若比邻的流量如何计算？</summary>\n                <p>流量按月周期计算，从每月1号到下个月1号累计使用。超出部分将自动限速。</p>\n            </details>\n            <details>\n                <summary>支持哪些设备和平台？</summary>\n                <p>我们支持Windows、macOS、iOS、Android及路由器等设备，同时兼容主流浏览器。</p>\n            </details>\n            <details>\n                <summary>旗舰版如何解锁流媒体？</summary>\n                <p>旗舰版提供原生节点解锁Netflix、YouTube、Disney+等平台，无需额外工具。</p>\n            </details>\n            <details>\n                <summary>年付套餐有何优势？</summary>\n                <p>年付可享受显著折扣，同时保持每月流量额度不变。适合长期使用的用户。</p>\n            </details>\n            <details>\n                <summary>遇到网络问题如何处理？</summary>\n                <p>7×24小时提供工单支持，专人协助排查与解决，通常可在1小时内回复。</p>\n            </details>\n        </section>\n    </main>\n\n    <div class=\"footer-note\">\n        若比邻 · 安全 · 稳定 · 便捷\n    </div>",
+          "hash": "6722aa93ef04bec2613a7bddbe17dc19f985d417c9e9d0ff385121eba2a6b2b9",
+          "seo": {
+            "title": "若比邻 - 安全VPN服务 | 多种套餐选择",
+            "keywords": "若比邻, VPN, 机场, 节点, 流量, 套餐, 安全上网",
+            "description": "若比邻提供基础版、旗舰版、团队版等多款VPN套餐，保障您的上网安全与稳定。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "9238",
+            "hero": "7 窄栏居左配大面积留白",
+            "palette": "9 深棕配薄荷",
+            "nav": "5 页面顶部面包屑加目录",
+            "card": "5 编号大字压底",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "5 问答引导式",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "beugf.cn",
+    "host": "p-6ba0a1424b.beugf.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "2aec3a56724730ce09430e8abe091f8701df24bb84b9935b87a1d0607f8cf9fb",
+    "sitemap.xml": "d00b6d22196ade3cee92fbcd2c7bb0125181645ea53553a1eb06d0b7fdf3c74c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f714e1fdb0fc15f0561e5efcf186fb34556a24698d3dc80cbf7331e2be4edc1e",
+    "robots.txt": "f8ac2df30ba830dcbdc1a81bcd7318f53efac6d71a296dae03acb9a73383688a",
+    "b7700b0937c68bee8a8703ce33a2bc62.txt": "71cad69ddd42b7cd86e05075dc8d5b8668c13671e83558a719851c998974e22c"
+  },
+  "revision": "51704c8638ffbf35d33353b00bf4daf0f082c63237f7e966cf121a81c96e5ec8"
+}
